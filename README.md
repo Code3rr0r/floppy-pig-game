@@ -1,4 +1,4 @@
-# 🐷 Floppy Pig
+# 🐷 Flappy Pig
 
 A delightful, open-source twist on the classic flappy bird game featuring an adorable pig! Navigate through pipes with perfect timing while the game progressively gets harder. Built with pure HTML5, CSS, and JavaScript.
 
@@ -22,13 +22,13 @@ A delightful, open-source twist on the classic flappy bird game featuring an ado
 
 ## 🚀 Play Now
 
-**[Play Floppy Pig Online](https://code3rr0r.github.io/floppy-pig/)**
+**[Play Flappy Pig Online](https://code3rr0r.github.io/flappy-pig/)**
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
-**Copyright (c) 2026 Floppy Pig Group**
+**Copyright (c) 2026 Flappy Pig Group**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
